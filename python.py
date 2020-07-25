@@ -1,4 +1,4 @@
 hello = input()
 print(hello)
 print('hello world')
-print('suck')
+print('suck my dick')
